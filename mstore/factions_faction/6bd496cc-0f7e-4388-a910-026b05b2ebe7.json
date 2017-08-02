@@ -1,0 +1,15 @@
+{
+  "name": "Smashers",
+  "description": "It fits -Girlgamer 2017",
+  "createdAtMillis": 1494522698572,
+  "powerBoost": 10.0,
+  "relationWishes": {
+    "bee19bb7-56f2-464e-8c37-805088a1683a": "ALLY",
+    "a4e6606c-11d3-4316-8fe8-ce4f88ee906c": "ALLY",
+    "8fb62745-62bc-4ee4-8255-c5a8105b1e26": "ALLY",
+    "1becb554-a579-4067-997c-bcbc1df52065": "ALLY"
+  },
+  "flags": {
+    "monsters": true
+  }
+}
